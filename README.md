@@ -1,6 +1,6 @@
 # All-about-Termux
 this repository contains a detailed tutorial about termux
-(what is termux?)[https://en.m.wikipedia.org/wiki/Termux]
+[what is termux?](https://en.m.wikipedia.org/wiki/Termux)
 
 ### making a directory
 `mkdir <directory name>`
