@@ -2,7 +2,7 @@
 this repository contains a detailed tutorial about termux
 
 ### making a directory
-`mkdir`
+`mkdir <directory name>`
 
 ### making a file
 `touch <file name>.<file format>`
