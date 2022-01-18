@@ -13,5 +13,6 @@ this repository contains a detailed tutorial about termux
 `termux setup storage`
 
 ### opening files from internal storage
-1. install vim text editor `apt install vim`
+1. install vim text editor
+`apt install vim`
 2. `vim ~/storage/shared/`
