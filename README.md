@@ -5,7 +5,7 @@ this repository contains a detailed tutorial about termux
 `mkdir`
 
 ## making a file
-`touch <file name>.<file format>
+`touch <file name>.<file format>`
 
 ## getting access to internal/shared storage
 `termux setup storage`
