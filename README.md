@@ -1,2 +1,11 @@
 # All-about-Termux
-this is repository contains a detailed tutorial about termux
+this repository contains a detailed tutorial about termux
+
+## making a directory
+`mkdir`
+
+## making a file
+`touch <file name>.<file format>
+
+## getting access to internal/shared storage
+`termux setup storage`
