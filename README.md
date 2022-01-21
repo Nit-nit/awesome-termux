@@ -18,7 +18,8 @@ this repository contains a detailed tutorial about termux, well [what is termux?
 2. `vim ~/storage/shared/`
 
 ### entering a file and running commands in it
-`cd <file path>`
+`cd <folder/directory path>` to open the file and using it current directory
+`cd` to getting out of the file again
 
 #### setting up file and saving it
 1. `vim <file path/name>` to open the file
@@ -28,3 +29,6 @@ this repository contains a detailed tutorial about termux, well [what is termux?
 5. `alt+:+wq` to exit the file by saving it
 6. `alt+:+w <file rename>` to rename and save the file
 7. `alt+:+wq <file rename>` to rename the file, saving and exiting
+
+### closing the tab and exiting the app
+`ctrl+d`
