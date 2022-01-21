@@ -18,8 +18,8 @@ this repository contains a detailed tutorial about termux, well [what is termux?
 2. `vim ~/storage/shared/`
 
 ### entering a file and running commands in it
-`cd <folder/directory path>` to open the file and using it current directory
-`cd` to getting out of the file again
+1. `cd <folder/directory path>` to open the file and using it current directory
+2. `cd` to getting out of the file again
 
 #### setting up file and saving it
 1. `vim <file path/name>` to open the file
