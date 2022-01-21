@@ -20,6 +20,7 @@ this repository contains a detailed tutorial about termux, well [what is termux?
 ### entering a file and running commands in it
 1. `cd <folder/directory path>` to open the file and using it current directory
 2. `cd` to getting out of the file again
+3. `vim ./` to open a file in current directory
 
 #### setting up file and saving it
 1. `vim <file path/name>` to open the file
