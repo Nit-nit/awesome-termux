@@ -5,7 +5,7 @@ this repository contains a detailed tutorial about termux, well [what is termux?
 `mkdir <directory name>`
 
 ### making a file
-`touch <file name and format>`
+`touch <file path/file name and format>`
 
 ### deleting a file
 `rm -r <file path>`
