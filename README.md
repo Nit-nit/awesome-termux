@@ -1,5 +1,5 @@
 # All-about-Termux
-this repository contains a detailed tutorial about termux, well [what is termux?](https://en.m.wikipedia.org/wiki/Termux)
+this repository contains a detailed tutorial about termux, well [what is termux?](https://en.m.wikipedia.org/wiki/Termux), [latest version here](https://f-droid.org/en/packages/com.termux/)
 
 ### making a directory
 `mkdir <directory name>`
