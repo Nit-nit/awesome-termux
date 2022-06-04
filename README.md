@@ -18,9 +18,9 @@ this repository contains a detailed tutorial about termux, well [what is termux?
 2. `vim ~/storage/shared/`
 
 ### entering a directoy and running commands inside it to make files and more directories inside it
-1. `cd <.../path/directory-name>` to open the file and using it current directory
-2. `cd` to getting out of the file again
-3. `vim ./` to open the current directory and see the list of files nad other directories inside it
+1. `cd <.../path/directory-name>` to open a directory and using it as current directory
+2. `cd` to getting out of the directory again
+3. `vim ./` to open the current directory and inspect it, you can see the list of all the folders and files this directory contains using this command
 
 ### setting up a file and saving it using vim
 1. `vim <.../path/file-name>` to open the file
