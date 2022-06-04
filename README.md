@@ -19,7 +19,7 @@ this repository contains a detailed tutorial about termux, well [what is termux?
 
 ### entering a directoy and running commands inside it to make files and more directories inside it
 1. `cd <.../path/directory-name>` to open a directory and using it as current directory
-2. `cd` to getting out of the directory again
+2. `cd` to get out of the current directory again
 3. `vim ./` to open the current directory and inspect it, you can see the list of all the folders and files this directory contains using this command
 
 ### setting up a file and saving it using vim
