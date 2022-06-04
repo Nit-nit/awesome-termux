@@ -22,7 +22,7 @@ this repository contains a detailed tutorial about termux, well [what is termux?
 2. `cd` to getting out of the file again
 3. `vim ./` to open a file in current directory
 
-### setting up file and saving it
+### setting up a file and saving it
 1. `vim <file path/name>` to open the file
 2. `i` to insert texts and edit the file
 3. `alt+:+w` to save a file
