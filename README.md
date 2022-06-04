@@ -2,7 +2,7 @@
 this repository contains a detailed tutorial about termux, well [what is termux?](https://en.m.wikipedia.org/wiki/Termux), [latest version here](https://f-droid.org/en/packages/com.termux/)
 
 ### making a directory
-`mkdir <directory name>`
+`mkdir <diractory-path/path/path/directory-name>`
 
 ### making a file
 `touch <file path, file name and format>`
