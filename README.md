@@ -17,7 +17,7 @@ this repository contains a detailed tutorial about termux, well [what is termux?
 1. install vim text editor `pkg install vim`
 2. `vim ~/storage/shared/`
 
-### entering a file and running commands in it
+### entering a directoy and running commands inside it to make files and more directories inside it
 1. `cd <.../path/directory-name>` to open the file and using it current directory
 2. `cd` to getting out of the file again
 3. `vim ./` to open the current directory and see the list of files nad other directories inside it
