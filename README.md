@@ -23,7 +23,7 @@ this repository contains a detailed tutorial about termux, well [what is termux?
 3. `vim ./` to open a file in current directory
 
 ### setting up a file and saving it using vim
-1. `vim <file path/name>` to open the file
+1. `vim <.../path/file-name>` to open the file
 2. `i` to insert texts and edit the file
 3. `alt+:+w` to save a file
 4. `alt+:+q` to exit file without saving
