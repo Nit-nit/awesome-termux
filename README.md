@@ -3,8 +3,7 @@ this repository contains a detailed tutorial about termux, well [what is termux?
 
 commands | usage
 ---- | ----
-first command | this table coming soon
----- | ----
+first command | this table is coming soon
 
 ### making a directory
 `mkdir <.../path/directory-name>`
