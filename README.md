@@ -20,7 +20,7 @@ first command | this table is coming soon
 
 ### opening files from internal storage
 1. install vim text editor `pkg install vim`
-2. `vim ~/storage/shared/`
+2. open shared storage `vim ~/storage/shared/`
 
 ### entering a directoy and running commands inside it to make files and more directories inside it
 1. `cd <.../path/directory-name>` to open a directory and using it as current directory
