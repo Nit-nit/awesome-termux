@@ -1,10 +1,11 @@
 # Awesome termux tutorial
 this repository contains a detailed tutorial about termux, well [what is termux?](https://en.m.wikipedia.org/wiki/Termux), [latest version here](https://f-droid.org/en/packages/com.termux/)
 
+# Basic commands usage
+
 commands | usage
 ---- | ----
 first command | this table is coming soon
----- | ----
 
 ### making a directory
 `mkdir <.../path/directory-name>`
