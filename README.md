@@ -8,7 +8,7 @@ commands | usage
 first command | this table is coming soon
 
 ### making a folder or directory
-`mkdir <.../path/directory-name>`
+`mkdir <.../path/directory-name>`<br>
 here `mkdir` means make directory (folder)
 
 ### making a file
