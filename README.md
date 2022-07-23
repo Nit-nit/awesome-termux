@@ -38,5 +38,8 @@ here `mkdir` means make directory (folder)
 6. `alt+:+w <file rename>` to rename and save the file
 7. `alt+:+wq <file rename>` to rename the file, saving and exiting
 
+### killing a process and stopping some action which is in progress
+`ctrl+4`
+
 ### closing the tab and exiting the app
 `ctrl+d`
