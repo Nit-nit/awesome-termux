@@ -7,13 +7,14 @@ commands | usage
 ---- | ----
 first command | this table is coming soon
 
-### making a directory
+### making a folder or directory
 `mkdir <.../path/directory-name>`
+here `mkdir` means make directory (folder)
 
 ### making a file
 `touch <.../path/file-name>`
 
-### deleting a file
+### deleting a folder/directory or file
 `rm -r <file path>`
 
 ### getting access to internal/shared storage
