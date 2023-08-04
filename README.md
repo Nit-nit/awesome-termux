@@ -1,5 +1,5 @@
 # Awesome termux tutorial
-this repository contains a detailed tutorial about termux, well [what is termux?](https://en.m.wikipedia.org/wiki/Termux) and [latest version here](https://f-droid.org/en/packages/com.termux/)!!
+This repository contains a beginner tutorial for Termux and Vim, well [what is termux?](https://en.m.wikipedia.org/wiki/Termux) and [latest version here](https://f-droid.org/en/packages/com.termux/)!!
 
 # Basic commands usage
 
