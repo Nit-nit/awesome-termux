@@ -9,13 +9,18 @@ first command | this table is coming soon
 
 ### making a folder or directory
 `mkdir <.../path/directory-name>`<br>
-here `mkdir` means make directory (folder)
+`mkdir` stands for make directory (folder)
 
 ### making a file
 `touch <.../path/file-name>`
 
-### deleting a folder/directory or file
+### deleting a folder/directory or a file
 `rm -r <file path>`
+`rm` stands for remove
+
+### moving a file from one path to another
+`mv <old file path> <new file path>`
+`mv` stands for move
 
 ### getting access to internal/shared storage
 `termux setup storage`
