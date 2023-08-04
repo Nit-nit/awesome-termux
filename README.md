@@ -15,11 +15,11 @@ first command | this table is coming soon
 `touch <.../path/file-name>`
 
 ### deleting a folder/directory or a file
-`rm -r <file path>`
+`rm -r <file path>`<br>
 `rm` stands for remove
 
 ### moving a file from one path to another
-`mv <old file path> <new file path>`
+`mv <old file path> <new file path>`<br>
 `mv` stands for move
 
 ### getting access to internal/shared storage
