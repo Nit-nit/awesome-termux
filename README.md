@@ -39,7 +39,7 @@ first command | this table is coming soon
 2. `i` to insert texts and edit the file
 3. `alt`+`:`+`w` to save a file
 4. `alt`+`:`+`q!` to exit file without saving
-5. `alt`+`:`+`wq` to exit the file by saving it
+5. `alt`+`:`+`wq` to save and exit the file
 6. `alt`+`:`+`w` `<file rename>` to rename and save the file
 7. `alt`+`:`+`wq` `<file rename>` to rename the file, saving and exiting
 
